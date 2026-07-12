@@ -1,6 +1,13 @@
 # Compiled class file
 *.class
 
+# IntelliJ IDEA project metadata
+.idea/
+*.iml
+
+# Java build output
+out/
+
 # Log file
 *.log
 
