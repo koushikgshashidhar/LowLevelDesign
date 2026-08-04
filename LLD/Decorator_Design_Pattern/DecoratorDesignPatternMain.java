@@ -10,8 +10,12 @@ public class DecoratorDesignPatternMain {
 
     }
 }
-
 /*
+
+Decorator is nothing but adding functionality during runtime whereas inheritance is compiletime
+adding functionality by wrapping the entity and resulting in same type of entity
+
+
 based on input , one can decorate
 its wrapping
 
@@ -19,6 +23,16 @@ if u observe , we can categorize on
 base entities - cone where there are no constructor
 decorate entities - which has constructor with dependencies
 you can also more validation
+
+
+ex: pizza, coffe, ice cream, file Save, logging, etc
+
+
+text{border{java button}}- html element
+
+File save   --> memory
+
+File_Encode{FIlE_Encrypt{file save}}-->memory
 
 
  */

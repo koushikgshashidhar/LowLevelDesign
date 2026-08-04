@@ -14,13 +14,8 @@ public class Client {
         Bird pigeon = new Pigeon();
         Bird Penguin = new Penguin();
 
-
-
-
-
-
     }
-
 
 }
 
+//Strategy pattern
